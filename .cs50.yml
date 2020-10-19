@@ -1,1 +1,4 @@
 lab50: true
+files:
+    - !include foo.c
+    - !include foo.h
